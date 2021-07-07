@@ -2,7 +2,7 @@
 ### Crawler
    - 使用爬蟲爬取Mobile01論壇,房價討論區的討論資料
 ### ETL
-   - 將實價登入房加資料進行ETL資料清洗
+   - 將實價登入房價資料進行ETL資料清洗
 ### ML-model
    - 將ETL後的房價資料,使用機器學習回歸模型(Decision Tree,Random Forest,SVM,Bagging,Boosting,AdaBoost,XGBOOST)進行建模與價格預測
 ### DL-model
